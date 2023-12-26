@@ -1,5 +1,8 @@
 # FAQ
 
+### What does this FAQ exist?
+To have a single place to direct/update. It's currently linked from one of my [Twitch](https://twitch.tv/justinhhorner) panels.
+
 ### What code editor are you using?
 [Neovim](https://neovim.io)
 
