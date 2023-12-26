@@ -1,14 +1,14 @@
 # FAQ
 
-### What does this FAQ exist?
+### Why does this FAQ exist?
 To have a single place to direct/update. It's currently linked from one of my [Twitch](https://twitch.tv/justinhhorner) panels.
 
 ### What code editor are you using?
 [Neovim](https://neovim.io)
 
 ### What font do you use?
-Editor: [Cascadia Mono](https://github.com/microsoft/cascadia-code)  
-Terminal: [MesloLGS NF](https://github.com/fontmgr/MesloLGSNF)
+* Editor: [Cascadia Mono](https://github.com/microsoft/cascadia-code)  
+* Terminal: [MesloLGS NF](https://github.com/fontmgr/MesloLGSNF)
 
 ### What theme are you using in Windows Terminal?
 It's the [gruvbox](https://ohmyposh.dev/docs/themes#gruvbox) theme for [Oh My Posh](https://ohmyposh.dev/)
