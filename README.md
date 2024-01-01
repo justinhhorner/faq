@@ -7,14 +7,14 @@ To have a single place to direct/update. It's currently linked from one of my [T
 [Neovim](https://neovim.io)
 
 ### What font do you use?
-* Editor: [Cascadia Mono](https://github.com/microsoft/cascadia-code)  
+* Editor: [Cascadia Mono](https://github.com/microsoft/cascadia-code)
 * Terminal: [MesloLGS NF](https://github.com/fontmgr/MesloLGSNF)
 
 ### What theme are you using in Windows Terminal?
 It's the [gruvbox](https://ohmyposh.dev/docs/themes#gruvbox) theme for [Oh My Posh](https://ohmyposh.dev/)
 
 ### What are the specs for your streaming computer? 
-HP OMEN  
+HP OMEN
 Intel i7-11700K  
 NVIDIA GeForce RTX 3080 Ti  
 HyperX 32 GB DDR4-3200  
@@ -28,7 +28,7 @@ Microphone: [Blue Yeticaster Pro](https://www.amazon.com/Blue-Yeticaster-Profess
 Tablet: [Wacom Intuos](https://www.amazon.com/gp/product/B079NWPZTG)
 
 ### What graphics editing program do you use?
-[Aseprite](https://www.aesprite.com) for pixel art and [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) by Serif for everything else.
+[Aseprite](https://www.aesprite.com) for pixel art and [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) for everything else.
 
 ### What are you drinking?
 Probably green tea.
@@ -41,3 +41,6 @@ C++
 
 ### What's your favorite programming language?
 No favorite. I mainly use C/C++ out of familiarity.
+
+### What's your stream schedule?
+I (typically) keep the schedule updated on [Twitch](https://www.twitch.tv/justinhhorner/schedule).
