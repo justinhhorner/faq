@@ -14,18 +14,18 @@ To have a single place to direct/update. It's currently linked from one of my [T
 It's the [gruvbox](https://ohmyposh.dev/docs/themes#gruvbox) theme for [Oh My Posh](https://ohmyposh.dev/)
 
 ### What are the specs for your streaming computer? 
-HP OMEN
+HP OMEN  
 Intel i7-11700K  
 NVIDIA GeForce RTX 3080 Ti  
 HyperX 32 GB DDR4-3200  
 
 ### What gear do you use?
 Mouse: [Razer Basilisk](https://www.amazon.com/dp/B0752VK4XV)  
-Keyboard: [Razer Ornata Chroma](https://www.amazon.com/Razer-Ornata-Chroma-Mecha-Membrane-Individually/dp/B01LVTI3TO)
+Keyboard: [RK Royal Kludge RK-S70](https://www.amazon.com/dp/B0C88V7LQK?th=1)  
 Monitors: [HP OMEN 27" IPS LED QHD](https://www.amazon.com/HP-OMEN-FreeSync-Compatible-Monitor/dp/B08P531VKB)  
 Headphones: [Logitech G PRO X](https://www.amazon.com/Logitech-G-Pro-Gaming-Headset/dp/B07PHML2XB)  
 Microphone: [Blue Yeticaster Pro](https://www.amazon.com/Blue-Yeticaster-Professional-Microphone-Shockmount/dp/B078MHS3SC)  
-Tablet: [Wacom Intuos](https://www.amazon.com/gp/product/B079NWPZTG)
+Tablet: [Wacom Intuos](https://www.amazon.com/gp/product/B079NWPZTG)  
 
 ### What graphics editing program do you use?
 [Aseprite](https://www.aesprite.com) for pixel art and [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) for everything else.
@@ -44,3 +44,6 @@ No favorite. I mainly use C/C++ out of familiarity.
 
 ### What's your stream schedule?
 I (typically) keep the schedule updated on [Twitch](https://www.twitch.tv/justinhhorner/schedule).
+
+### My question isn't here
+Feel free to ask questions on [stream](https://twitch.tv/justinhhorner), [X](https://x.com/justinhhorner) or [create an issue](https://github.com/justinhhorner/faq/issues/new).
